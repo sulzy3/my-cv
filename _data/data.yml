@@ -21,9 +21,9 @@ education:
     university: Ashkelon College
     
 interests:
-   - hobby: Brewing
-   - hobby: Philosophy
-   - hobby: Bouldering 
+  - hobby: Brewing
+  - hobby: Philosophy
+  - hobby: Bouldering 
 
 skills:
   - category: Languages
@@ -48,12 +48,27 @@ skills:
 
 # Profile
 profile: | 
-   Experienced and innovative Senior Fullstack Developer with a strong track record of designing scalable systems, architecting complex solutions, and driving technical projects from inception to delivery. Adept at leading development teams, fostering collaboration, and aligning solutions with business goals.
+  Experienced and innovative Senior Fullstack Developer with a strong track record of designing scalable systems, architecting complex solutions, and driving technical projects from inception to delivery. Adept at leading development teams, fostering collaboration, and aligning solutions with business goals.
 
 # Experience
 experience:
+  - role: Backend Developer
+    time: 2025-Present
+    company: Checkpoint
+    summary: Backend Developer contributing to a large-scale project in an agile environment.
+    achievements:
+      - category: Cloud Development
+        description: Developed and maintained robust backend services leveraging AWS cloud infrastructure.
+      - category: Team Collaboration
+        description: Collaborated effectively within a large, multi-functional team using Agile methodologies (Scrum/Kanban).
+      - category: Technology Stack
+        description: Utilized Node.js for backend development, integrating with various services.
+      - category: Cross-Functional Work
+        description: Worked closely with frontend teams using React to ensure seamless end-to-end integration.
+    technologies: Node.js, AWS, React, Agile Methodologies
+
   - role: Fullstack Developer
-    time: 2022-present
+    time: 2022-2025
     company: Housetable
     summary: Led the development of a serverless, multi-tenant white-label platform from inception to production.
     achievements:
